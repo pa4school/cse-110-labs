@@ -26,7 +26,7 @@ const helloWorld = () => {
 
 ## My Goals
 
-I have a dream of working for FAANG, especially Apple. Here are some of the steps I plan to take to achieve this are:
+I have a dream of working for [FAANG](./images/FAANG.png), especially Apple. Here are some of the steps I plan to take to achieve this are:
 
 1. Finish my Bachelor's degree in Computer Science
 2. Create a portfolio of projects that showcase my skills
