@@ -1,98 +1,55 @@
-# Task List
-- [x] Image of screenshot for part 1, part 2, and part 3
+# Welcome to my User Page!
 
-![Part 1](./screenshots/sc-week1-part-1.png)
+## About me
 
-![Part 2](./screenshots/sc-week1-git-cli.png)
+![My profile picture](./images/illu.jpeg)
 
-![Part 3](./screenshots/sc-week1-staged-commit-vscode.png)
+My name is **Anh** and I'm majoring in *Computer Science* at ~~Sixth~~ Revelle College at [UCSD](https://ucsd.edu/). 
 
-- [x] 1. Headings
-- [x] 2. Styling text
-- [x] 3. Quoting text
-- [x] 4. Quoting code
-- [x] 5. External Links
-- [x] 6. Section links
-- [x] 7. Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-- [x] 8. Ordered and Unordered Lists
-- [x] 9. Task lists
-- [ ] A blank task list item
+I have a passion for **_designing_** and ***creating*** user-friendly interfaces for web and mobile applications. 
 
-# 1. Headings
+Some of my hobbies are:
 
-# Heading 1
+- Coding. ([My Favorite Programming Language](#my-favorite-programming-language))
+- Listening to music
+- Playing video games
 
-## Heading 2
+## My favorite programming language
 
-### Heading 3
+I like javascript and learning how to code websites as well. Here is a snippet of code that prints "Hello World" in the modern ES6 syntax:
 
-
-# 2. Styling text
-
-**Bold text**
-
-*Italic*
-
-~~Strikethrough~~
-
-**_Nested Italic & Bold_**
-
-***Italic & Bold***
-
-Subscript: Turing<sub>const</sub>
-
-Superscript: x squared, x<sup>2</sup>
-
-# 3. Quoting text
-
-> "There are two ways to write error-free programs; only the third works." - Alan J. Perlis
-
-# 4. Quoting code
-
-One line code: `print("Hello World")`
-
-Multi-line code:
 ```javascript
-const myFunction = () => {
+const helloWorld = () => {
   console.log("Hello World");
 }
 ```
 
-# 5. External Links
+## My Goals
 
-[CSE Catalog](https://catalog.ucsd.edu/courses/CSE.html)
+I have a dream of working for FAANG, especially Apple. Here are some of the steps I plan to take to achieve this are:
 
-# 6. Section links
+1. Finish my Bachelor's degree in Computer Science
+2. Create a portfolio of projects that showcase my skills
+3. Apply for an internship at Apple and impress them with my work
+4. Pursue a career as a full-time software engineer
 
-[Jump back to Task List](#task-list)
+## Contact me
 
-# 7. Relative links
+If you want to get in touch with me, you can email me at [pap002@ucsd.edu](mailto:pap002@ucsd.edu) or follow me on [LinkedIn](https://www.linkedin.com/in/phuanh004).
 
-[Go to README.md](./README.md)
+## Fun facts
 
-[Go to screenshots folder](./screenshots)
+- My name in binary using subscripts, such as A<sub>01000001</sub> N<sub>01001110</sub> H<sub>01001000</sub>.
+- I can write the Big O notation for some common algorithms using superscripts, such as O(n<sup>2</sup>) for bubble sort and O(log n) for binary search in Markdown.
 
-# 8. Ordered and Unordered Lists
+- This is my favorite line of joke in coding:
 
-## Unordered List
+> "There are two ways to write error-free programs; only the third works." - Alan J. Perlis
+## To-do list
 
-- Item 1
-- This is a nested list
-  - Item 2
-  - Item 3
-    - Nested item 3.1
-    - Nested item 3.2
+These are some of the tasks I need to complete my content in this page:
 
+- [x] Rewrite my profile content using markdown syntax
+- [x] Publish the web page through GitHub Pages
+- [ ] Share the link to my page with my friends and family
 
-## Ordered List
-
-1. Item 1
-2. Item 2
-3. Item 3
-   - Nested tem 3.1
-   - Nested item 3.2
-   - Nested item 3.3
-
-# 9. Task lists
-
-[Jump back to Task List](#task-list)
